@@ -30,7 +30,7 @@ To customize:
 
 ## Live Demo
 
-https://your-username.github.io/repository-name
+https://github.com/AmrutaPatil5/cohort
 
 ## Output Screenshots
 
